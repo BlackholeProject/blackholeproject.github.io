@@ -1,4 +1,4 @@
-# 黑洞计划 - 静态网站    v 0.2.0
+# 黑洞计划 - 静态网站    v 0.2.1
 
  > 一个并不会前端开发的 OIer 前来划水。
 
@@ -14,4 +14,5 @@
 -----
 - 网页修改自 [@ajlkn](https://twitter.com/ajlkn) 的 [Massively](https://html5up.net/massively)，本网站基于 CCA 3.0 协议使用
 - 目前不定期更新，如果有建议或反馈欢迎 Issues & Pull requests
+- 如果希望参与网站的更新与维护，请在群聊中联系 BlackCB \_(:з」∠)\_ 
 - ~~目前由 DepletedPrism 维护~~
