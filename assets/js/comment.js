@@ -1,9 +1,9 @@
 var gitalk = new Gitalk({
-  clientID: 'b3ea4fecb63727152102',
-  clientSecret: '5879d4df4b5b5aa1a95a91de6d7236819fb86650',
-  repo: 'deprism.github.io',
-  owner: 'DePrism',
-  admin: ['DePrism'],
+  clientID: '49032d909f27598e5c2b',
+  clientSecret: 'bf1bc1c933f6a025485bb0233b32a395466f4691',
+  repo: 'blackholeproject.github.io',
+  owner: 'DepletedPrism',
+  admin: ['DepletedPrism', 'aghinouz'],
   id: location.pathname,
   distractionFreeMode: false,
   language: 'zh-CN'
